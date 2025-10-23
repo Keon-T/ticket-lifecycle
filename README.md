@@ -37,7 +37,7 @@ Creating a ticket as an end user opening new ticket as karen with help topic rep
 <br />
 
 <p>
-<img src="https://i.imgur.com/MMbIDD7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nZhvtsL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 login in with different credentials to observe as help desk agent john to select priority/department and setting service level agreement (sla) assigning to completion
