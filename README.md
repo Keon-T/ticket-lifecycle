@@ -40,7 +40,7 @@ Creating a ticket as an end user opening new ticket as karen with help topic rep
 <img src="https://i.imgur.com/MMbIDD7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-login in with different credentials to observe as help desk agent john to select priority/department and setting service level agreement (sla) assigning to user
+login in with different credentials to observe as help desk agent john to select priority/department and setting service level agreement (sla) assigning to completion
 </p>
 <br />
 
@@ -48,6 +48,5 @@ login in with different credentials to observe as help desk agent john to select
 <img src="https://i.imgur.com/3n5KvBa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Another new a ticket as an end user opening new ticket as karen with help topic reporting business critical outage/report problem</p>
 <br />
