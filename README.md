@@ -30,6 +30,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <p>
 Creating a ticket as an end user opening new ticket as karen with help topic reporting business critical outage/report problem</p>
+login osticket virtual machine on and running copy IP address to use for remote desktop login open two tabs for OS and login as admin user previously created and go to admin panel - agents - departments - maintenance department save all changes and open new ticket as end user karen business critical report problem
 <br />
 
 <p>
@@ -45,4 +46,5 @@ login in with different credentials to observe as help desk agent john to select
 </p>
 <p>
 Another new a ticket as an end user opening new ticket as karen with help topic reporting business critical outage/report problem</p>
+Pretending that we are the cfo making a ticket report a problem personal computer issues setting priority to emergency classifying SLA sev B attempt to call,contact with RESPONSE to problem and set status to resolved 
 <br />
