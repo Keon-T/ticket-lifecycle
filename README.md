@@ -31,6 +31,20 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 Creating a ticket as an end user opening new ticket as karen with help topic reporting business critical outage/report problem</p>
 login osticket virtual machine on and running copy IP address to use for remote desktop login open two tabs for OS and login as admin user previously created and go to admin panel - agents - departments - maintenance department save all changes and open new ticket as end user karen business critical report problem
+
+ - As an end-user, create the following ticket
+entire mobile/online banking system is down
+
+As a Help Desk Agent (john), observe the ticket’s properties
+	Priority
+	Department
+	SLA
+	Assigned To
+
+Set Properties to the ticket
+Sev-A (1 hour, 24/7)
+Online Banking Department
+
 <br />
 
 <p>
@@ -38,6 +52,17 @@ login osticket virtual machine on and running copy IP address to use for remote 
 </p>
 <p>
 login in with different credentials to observe as help desk agent john to select priority/department and setting service level agreement (sla) assigning to completion
+Work the previous ticket to completion as john , As an end-user, create the following ticket
+CFO’s laptop will no longer turn on as a Help Desk Agent (john), observe the ticket’s properties
+	Priority
+	Department
+	SLA
+	Assigned To
+Set Properties to the ticket
+Sev-B (4 hours, 24/7)
+Support
+then completing ticket as john
+
 </p>
 <br />
 
@@ -47,4 +72,10 @@ login in with different credentials to observe as help desk agent john to select
 <p>
 Another new a ticket as an end user opening new ticket as karen with help topic reporting business critical outage/report problem</p>
 Pretending that we are the cfo making a ticket report a problem personal computer issues setting priority to emergency classifying SLA sev B attempt to call,contact with RESPONSE to problem and set status to resolved 
+
+Set Properties to all the tickets; do SEV-A (SysAdmins last), observe ticket becomes inaccessible
+Switch to admin panel and assign yourself View-access to Sys Admins
+Switch to agent panel and observe the escalated ticket
+Observe that you can no longer make changes to it
+
 <br />
